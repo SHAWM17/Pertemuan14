@@ -1,4 +1,3 @@
-package Pertemuan14;
 public class Kafe27 {
     public static void Menu(){
         System.out.println("====MENU RESTO KAFE====");
